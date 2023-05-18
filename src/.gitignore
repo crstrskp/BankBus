@@ -1,0 +1,9 @@
+/[Bb]in/
+/node_modules/
+
+*.lock
+*.env
+
+# Visual Studio cache directory
+.vs/
+.vscode/settings.json
