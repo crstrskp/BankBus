@@ -1,6 +1,6 @@
 /[Bb]in/
 /node_modules/
-
+*.js
 *.lock
 *.env
 
